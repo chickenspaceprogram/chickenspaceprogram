@@ -1,6 +1,6 @@
 # Athena Boose
 
-## This is where I put a few personal projects I've been working on.
+## Personal GitHub
 
 If you encounter bugs, issues, or find something that is incomplete that you think I should finish, please open a GitHub issue! I can't promise I'll get to it (I'm pretty busy at the best of times) but it helps to know what people are interested in!
 
