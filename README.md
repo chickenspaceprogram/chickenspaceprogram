@@ -8,6 +8,8 @@ As of 14 Sept 2024, all the projects here are under the MIT License.
 
 If you wish to contact me, please send email to <pestpestthechicken@yahoo.com>.
 
+pfp: Image of the Omega Nebula (Messier 17), taken using the [Skynet Robotic Telescope Network](https://skynet.unc.edu/).
+
 ### Current projects in active development (as of 14 Sept 2024)
 
 [**cconvti**](https://github.com/chickenspaceprogram/cconvti) - A version of the earlier (and partially-complete) project convTI, rewritten in C because writing the original in Java was dumb. Converts text/CSV files to files usable on TI graphing calculators.
