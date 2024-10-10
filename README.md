@@ -5,6 +5,8 @@ If you encounter bugs, issues, or find something that is incomplete that you thi
 
 As of 28 Sept 2024, all my projects that you can find here are under the MIT License.
 
+If you know me IRL, you probably know me as Timothy Boose.
+
 pfp: Image of the Omega Nebula (Messier 17), taken using the [Skynet Robotic Telescope Network](https://skynet.unc.edu/).
 
 ## Current projects in active development (as of 14 Sept 2024)
