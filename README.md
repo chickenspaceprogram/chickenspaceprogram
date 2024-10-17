@@ -5,7 +5,7 @@ If you encounter bugs, issues, or find something that is incomplete that you thi
 
 Most of the stuff here is licensed under the MIT License, so you're free to use it in whatever way you want as long as I am credited.
 
-If you know me in-person, you probably know me as Timothy Boose. Please continue referring to me by that name for now. I'll probably come out to you at some point in the next couple months; please call me Athena from that point forward.
+If you know me in-person, you probably know me as Timothy Boose. Please continue referring to me by that name for now. I'll probably come out to you at some point in the next couple months; please call me Athena and do not call me Timothy from that point forward.
 
 pfp: Image of the Omega Nebula (Messier 17), taken using the [Skynet Robotic Telescope Network](https://skynet.unc.edu/).
 
