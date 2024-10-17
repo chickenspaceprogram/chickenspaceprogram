@@ -13,6 +13,8 @@ pfp: Image of the Omega Nebula (Messier 17), taken using the [Skynet Robotic Tel
 
 [**cconvti**](https://github.com/chickenspaceprogram/cconvti) - A version of the earlier (and partially-complete) project convTI, rewritten in C because writing the original in Java was dumb. Converts text/CSV files to files usable on TI graphing calculators.
 
+[**rusti**](https://github.com/chickenspaceprogram/rusti) - A version of cconvti, rewritten in Rust for the memes (and also because I like Rust)
+
 [**wordleTI**](https://github.com/chickenspaceprogram/wordleTI) - A program for playing Wordle on TI graphing calculators, written entirely in TI-BASIC.
 
 ## Contact information
