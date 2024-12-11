@@ -1,26 +1,23 @@
 # Athena Boose
-## Notes and acknowledgements
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenspaceprogram&exclude_repo=wsu-game-jam-2024&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-If you encounter bugs, issues, or find something that is incomplete that you think I should finish, please open a GitHub issue! I can't promise I'll get to it (I'm pretty busy at the best of times) but it helps to know what people are interested in!
+## Who I am
 
-Most of the stuff here is licensed under the MIT License, so you're free to use it in whatever way you want as long as I am credited.
+I'm a student at Washington State University, currently studying Physics and Math (although I haven't ruled out swapping one of those for a CS major).
+
+I take a particular interest in systems programming, as well as compilers and programming language designmore generally. Backend development more generally is neat, and I'd like to delve into embedded systems at some point in future, but there's only so much time in the day.
+
+## Notes and acknowledgements
+
+Many of the projects here are incomplete or partially complete. Unfortunately, I'm very busy right now, so things tend to get into a state of "does what I need it to do" and don't progress beyond that. Feel free to pester me to finish something or submit a PR yourself!
 
 pfp: Image of Messier 17, taken using the [Skynet Robotic Telescope Network](https://skynet.unc.edu/).
-
-## Current projects in active development (as of 14 Sept 2024)
-
-[**cconvti**](https://github.com/chickenspaceprogram/cconvti) - A version of the earlier (and partially-complete) project convTI, rewritten in C because writing the original in Java was dumb. Converts text/CSV files to files usable on TI graphing calculators.
-
-[**rusti**](https://github.com/chickenspaceprogram/rusti) - A version of cconvti, rewritten in Rust for the memes (and also because I like Rust)
-
-[**wordleTI**](https://github.com/chickenspaceprogram/wordleTI) - A program for playing Wordle on TI graphing calculators, written entirely in TI-BASIC.
 
 ## Contact information
 
 Pronouns: she/they\
 Email: <pestpestthechicken@yahoo.com>
 
-Please avoid emailing me if you have another way of contacting me.
+Please avoid emailing me if you have another way of contacting me, such as through Discord.
 
