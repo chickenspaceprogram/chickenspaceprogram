@@ -6,7 +6,7 @@
 
 I'm a student at Washington State University, currently studying Physics and Math (although I haven't ruled out swapping one of those for a CS major).
 
-I take a particular interest in systems programming, as well as compilers and programming language designmore generally. Backend development more generally is neat, and I'd like to delve into embedded systems at some point in future, but there's only so much time in the day.
+I take a particular interest in systems programming, as well as compilers and programming language design more generally. Backend development more generally is neat, and I'd like to delve into embedded systems at some point in future, but there's only so much time in the day.
 
 ## Notes and acknowledgements
 
