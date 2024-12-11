@@ -1,7 +1,7 @@
 # Athena Boose
 ## Notes and acknowledgements
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenspaceprogram&exclude_repo=wsu-game-jam-2024)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chickenspaceprogram&exclude_repo=wsu-game-jam-2024&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 If you encounter bugs, issues, or find something that is incomplete that you think I should finish, please open a GitHub issue! I can't promise I'll get to it (I'm pretty busy at the best of times) but it helps to know what people are interested in!
 
