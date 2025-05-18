@@ -4,7 +4,7 @@
 
 ## Who I am
 
-I'm a student at Washington State University (expected graduation Spring 2028), currently studying Math and Computer Science (although I haven't ruled out swapping the former for either a Chemistry or a Physics major).
+I'm a student currently studying Math and Computer Science (although I haven't ruled out swapping the former for either a Chemistry or a Physics major).
 
 I take a particular interest in systems programming, as well as compilers and programming language design more generally. I'd like to delve more properly into embedded systems at some point in future, but there's only so much time in the day.
 
